@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: #61dafb;
+
+}
+
+
+.input-range {
+  cursor: pointer;
+
+}
+
+.range-max {
+  cursor: pointer;
+}
+
+.range-min{
+ 
+  cursor: pointer;
+}
+
+.box {
+  margin-top: 50px;
+  background: #4a6447;
+}
+
